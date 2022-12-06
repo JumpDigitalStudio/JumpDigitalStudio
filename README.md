@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/thereallbigsmoke" target="blank"><img align="center" src="https://i.yapx.ru/VHHGu.png" alt="thereallbigsmoke" height="30" width="40" /></a>
+<a href="https://instagram.com/thereallbigsmoke" target="blank"><img align="center" src="https://i.yapx.ru/VHHGu" alt="thereallbigsmoke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
