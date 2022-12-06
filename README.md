@@ -1,9 +1,10 @@
 <h1 align="center">📀Welcome to Jump Digital Studio📀</h1>
 <h3 align="center">Web development Team Leader from Russia</h3>
 
-<h3 align="left">🥇 We currently working:</h3>
+<h3 align="left">We currently working:</h3>
 
 <p align="left">
+  
   🥇 [IT Vectura](http://it-vectura.com/)
   
   🥈 [i1 Consulting](http://i1.consulting/)
@@ -11,9 +12,9 @@
   🥉 [InTheme Lab](https://inthemelab.com/)
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/JumpDigitalStudio](https://github.com/JumpDigitalStudio)
+👨‍💻 All of my projects are available at [https://github.com/JumpDigitalStudio](https://github.com/JumpDigitalStudio)
 
-- 📫 How to reach me **jumpdigital.studio@gmail.com**
+📫 How to reach me **jumpdigital.studio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
