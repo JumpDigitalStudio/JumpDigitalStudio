@@ -13,9 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/thereallbigsmoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thereallbigsmoke" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jump digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jump digital" height="30" width="40" /></a>
-<a href="https://discord.gg/VVS Russia#6221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="VVS Russia#6221" height="30" width="40" /></a>
+<a href="https://instagram.com/thereallbigsmoke" target="blank"><img align="center" src="https://i.yapx.ru/VHHGu.png" alt="thereallbigsmoke" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
