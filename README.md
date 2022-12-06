@@ -1,11 +1,15 @@
 <h1 align="center">📀Welcome to Jump Digital Studio📀</h1>
 <h3 align="center">Web development Team Leader from Russia</h3>
 
-- 🥇 We currently working on: [IT Vectura](http://it-vectura.com/)
+<h3 align="left">🥇 We currently working:</h3>
 
-- 🥈 We currently working on: [i1 Consulting](http://i1.consulting/)
-
-- 🥉 We currently working on: [InTheme Lab](https://inthemelab.com/)
+<p align="left">
+  🥇 [IT Vectura](http://it-vectura.com/)
+  
+  🥈 [i1 Consulting](http://i1.consulting/)
+  
+  🥉 [InTheme Lab](https://inthemelab.com/)
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JumpDigitalStudio](https://github.com/JumpDigitalStudio)
 
