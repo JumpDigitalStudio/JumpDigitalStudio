@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">📀Welcome to Jump Digital Studio📀</h1>
-<h3 align="center">Web development team director from Russia🕴</h3>
+<h3 align="center">Web development Team Leader from Russia</h3>
 
 - 🥇 We currently working on: [IT Vectura](http://it-vectura.com/)
 
