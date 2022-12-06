@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">📀Welcome to Jump Digital Studio📀</h1>
 <h3 align="center">Web development Team Leader from Russia</h3>
 
