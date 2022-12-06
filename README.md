@@ -12,6 +12,8 @@
   🥉 [InTheme Lab](https://inthemelab.com/)
 </p>
 
+<h3 align="left">All projects:</h3>
+
 👨‍💻 All of my projects are available at [https://github.com/JumpDigitalStudio](https://github.com/JumpDigitalStudio)
 
 📫 How to reach me **jumpdigital.studio@gmail.com**
