@@ -5,7 +5,7 @@
 
 <p align="left">
   
-  🥇 [IT Vectura](http://it-vectura.com/)
+  🥇 [IT Vectura](http://itvectura.com/)
   
   🥈 [i1 Consulting](http://i1.consulting/)
   
